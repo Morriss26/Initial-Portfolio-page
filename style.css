@@ -1,0 +1,35 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:rgb(228, 224, 231);
+    color:var(--text-dark);
+    line-height: 1;
+    text-align: center;
+
+
+header{
+    padding: 2rem;
+    text-align: center;
+    font-size: 2rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+img{
+    text-align: center;
+}
+header1{
+    padding: auto;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1rem;
+}
+section{
+    font-style: italic;
+    text-decoration-color: black;
+
+
+}
+}
+
+
+
